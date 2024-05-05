@@ -15,11 +15,11 @@ import { MdArrowBack, MdCheck, MdDelete } from "react-icons/md";
 
 import { TbTruckReturn } from "react-icons/tb";
 import Spinner from "../../components/components/Spinner";
-import { useState } from "react";
+
 
 
 const Cart = () => {
-  const [Show , setShow] =useState(false)
+
   const { cartItems, isLoading } = useAppSelector((state) => state.cart);
  
   const dispatch = useAppDispatch();
@@ -33,7 +33,7 @@ const Cart = () => {
 
   if (isLoading) return <Spinner />;
 const showModal = ()=>{
-setShow(true)
+
 alert("No Coupons available")
 }
   return (

@@ -6,7 +6,7 @@ import styles from "./index.module.scss";
 import { useAppSelector } from "../../../../../../app/hooks";
 
 const CartIcon = () => {
-  const { totalItems, status } = useAppSelector(
+  const { totalItems,  } = useAppSelector(
     (state) => state.cart
   );
 
