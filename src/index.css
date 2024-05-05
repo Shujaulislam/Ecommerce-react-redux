@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body
+{
+    color: black !important;
+}
+
+.shopping
+{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 34px;
+}
+.shopping-text
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.shop-button
+{
+    margin-top: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+
+   
+}
+
+.shop-button button{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 12px;
+    border: 1px solid gray;
+    background: #feeff9;
+    color: black;
+    font-weight: 800;
+    cursor: pointer;
+}
+
