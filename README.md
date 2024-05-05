@@ -2,7 +2,7 @@
 
 An E-commerce site build using React, Redux, Redux-toolkit, React-router-dom and Typescript
 
-- [Demo](https://effulgent-cendol-64f888.netlify.app)
+- [Demo](https://vocal-crepe-ca1835.netlify.app)
 
 ## Built with
 
