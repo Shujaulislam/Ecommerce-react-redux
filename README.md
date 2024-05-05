@@ -2,7 +2,7 @@
 
 An E-commerce site build using React, Redux, Redux-toolkit, React-router-dom and Typescript
 
-- [Demo]()
+- [Demo](https://effulgent-cendol-64f888.netlify.app)
 
 ## Built with
 
@@ -34,11 +34,11 @@ An E-commerce site build using React, Redux, Redux-toolkit, React-router-dom and
 
 - [ ] Clone the Repository
 ```
-https://github.com/athulrajhere/FlowyCart-ecommerce-react-redux.git
+https://github.com/https://github.com/Shujaulislam/Ecommerce-react-redux
 ```
 - [ ] Enter into the directory
 ```
-cd FlowyCart-ecommerce-react-redux
+
 ```
 - [ ] Install all dependencies
 ```
